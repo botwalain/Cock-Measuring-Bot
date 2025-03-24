@@ -55,11 +55,11 @@ This is a fun and interactive Telegram bot where users can grow and compete with
 
 To run the bot, you'll need to have Python and the required libraries installed. Here's a step-by-step guide:
 
-1. Clone the repository: `git clone https://github.com/soulkeeper2/Cock-Measuring-Bot.git`
+1. Clone the repository: `git clone https://github.com/SoulKeeper2/Cock-Measuring-Bot.git`
 2. Install the required libraries: `pip install python-telegram-bot`
 3. Create a Telegram bot and obtain an API token
-4. Replace `YOUR_API_TOKEN` with your actual API token
-5. Run the bot: `python bot.py`
+4. Replace Token with your actual API token
+5. Run the bot: `python main.py`
 
 ## Contributing
 ------------
