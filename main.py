@@ -50,7 +50,7 @@ def save_database():
 pvp_battles = {}
 
 async def start_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    await update.message.reply_text("Hello, I am Solid Snake. Let's start the game of measuring your cock size!")
+    await update.message.reply_text("Hello, Dick Grower Bot. Let's start the game of measuring your cock size , use /grow to grow your cute dihhh!")
 
 async def help_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
     help_text = (
