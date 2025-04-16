@@ -18,9 +18,9 @@ from telegram.ext import (
 )
 
 # Constants
-TOKEN: Final = 'Bot Token Goes Here'
-BOT_USERNAME: Final = '@Bot UserName (make sure to add the @ infront of the username)'
-DATABASE_FILE: Final = r"The database path , JSON file will be saved here"
+TOKEN: Final = '7629586263:AAHGDmdpBhF9ok3kFZ0N-X3svcaCKIPqBO0'
+BOT_USERNAME: Final = '@dick_checkbot'
+DATABASE_FILE: Final = r"{}"
 
 # Load persistent data from file
 try:
